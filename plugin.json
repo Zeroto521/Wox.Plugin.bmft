@@ -1,0 +1,12 @@
+{
+    "ID": "b0a217b4ad32448182bb97f0b9b451de",
+    "ActionKeyword": "bmft",
+    "Name": "半亩方塘",
+    "Description": "It means that Batch Modify File Type, also you can call it as '半亩方塘'.",
+    "Author": "Zeroto521",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "https://github.com/Zeroto521/Wox.Plugin.bmft",
+    "IcoPath": "assets\\favicon.ico",
+    "ExecuteFileName": "main.py"
+}
